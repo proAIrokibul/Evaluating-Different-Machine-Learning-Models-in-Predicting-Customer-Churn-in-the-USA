@@ -1,7 +1,5 @@
 # Evaluating-Different-Machine-Learning-Models-in-Predicting-Customer-Churn-in-the-USA
 
-# Customer Churn Prediction Using Machine Learning
-
 ## Project Overview
 Customer churn is a critical concern for businesses across industries. This project focuses on predicting customer churn using machine learning models based on customer demographic, service, and payment details. By leveraging data-driven insights, businesses can identify at-risk customers and implement effective retention strategies. 
 
