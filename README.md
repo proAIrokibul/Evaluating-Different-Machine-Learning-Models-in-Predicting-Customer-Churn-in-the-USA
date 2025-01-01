@@ -84,6 +84,4 @@ Visualizations provided insights into factors influencing churn:
 ## Conclusion
 This project successfully demonstrated the application of machine learning to predict customer churn and provided actionable insights for business improvement. While the models achieved moderate accuracy, further optimization and the use of advanced techniques like deep learning or ensemble methods could enhance predictive performance.
 
-This analysis serves as a foundation for businesses to proactively address churn, reduce losses, and foster long-term customer relationships.
-
 
