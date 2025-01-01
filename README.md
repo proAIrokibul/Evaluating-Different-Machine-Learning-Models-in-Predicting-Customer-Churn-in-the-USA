@@ -45,8 +45,7 @@ Visualizations provided insights into factors influencing churn:
 
        0       0.51      0.60      0.55       596
        1       0.49      0.40      0.44       580
-
-accuracy                           0.50      1176
+       accuracy                           0.50      1176
 
 
 ### Random Forest Results
@@ -54,8 +53,7 @@ accuracy                           0.50      1176
 
        0       0.50      0.54      0.52       596
        1       0.49      0.45      0.47       580
-
-accuracy                           0.50      1176
+       accuracy                           0.50      1176
 
 
 
@@ -64,8 +62,7 @@ accuracy                           0.50      1176
 
        0       0.50      0.67      0.57       596
        1       0.48      0.32      0.38       580
-
-accuracy                           0.49      1176
+       accuracy                           0.49      1176
 
 
 ## Business Impacts
